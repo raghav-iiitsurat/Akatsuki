@@ -1,0 +1,36 @@
+#nav-bar {
+  background-color: #a5e1ad;
+  padding: 2% 10%;
+  position: static;
+}
+
+.nav-btn {
+  padding: 13px;
+}
+
+/* .search{
+  margin-top: 1px;
+} */
+
+h1{
+font-family: 'Josefin Sans', sans-serif;
+}
+
+.site-name{
+  font-size: 40px;
+  font-weight: bold;
+  color: #21094e;
+  font-family: 'Staatliches', cursive;
+}
+
+#login-page{
+  text-align: center;
+}
+
+.login-form{
+  padding: 3% 35%;
+}
+
+.login-hd{
+  padding-top: 2%;
+}
